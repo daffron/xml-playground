@@ -1,0 +1,17 @@
+<Root>
+<DataSetConfig>
+  <DataSet name="case" description="ATO Siebel Case" title="Siebel Case" db="_case" dataExportTarget="file">
+    <DataItem name="casetyp" title="Case Type">
+      <Filter>
+        <Boolean length="long" position="1">
+      </Filter>
+      <Display>
+        <Metadata position="3">
+      </Display>
+      <Preview>
+        <Metadata position="4">
+      </Preview>
+    </DataItem>
+  </DataSet>
+</DataSetConfig>
+</Root>
