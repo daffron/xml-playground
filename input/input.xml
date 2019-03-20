@@ -1,4 +1,3 @@
-<Root>
 <DataSetConfig>
   <DataSet name="case" description="ATO Siebel Case" title="Siebel Case" db="_case" dataExportTarget="file">
     <DataItem name="casetyp" title="Case Type">
@@ -14,4 +13,3 @@
     </DataItem>
   </DataSet>
 </DataSetConfig>
-</Root>
